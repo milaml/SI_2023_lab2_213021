@@ -20,7 +20,7 @@ TestCase4: user(username=Mila; password=12345678910112341; email: mila123) ; All
 Мејлот да не содржи @ i . i password без специјален знак
 <br>
 TestCase5: user(username=Mila; password= finki ukim; email: finki@ukim.mk) ; AllUsers= (username=Mila; password= finki ukim; email= finki@ukim.mk) <br>
-Пасвордот да содржи празно место. <br> Со овие test caseovi се исполнува Every Branch критериумот. <br?
+Пасвордот да содржи празно место. <br> Со овие test caseovi се исполнува Every Branch критериумот. <br>
 ![eveerybranc](https://github.com/milaml/SI_2023_lab2_213021/assets/129743975/69e1fd7f-db22-4cbd-ad02-aada6b77d2e9)
 
 
